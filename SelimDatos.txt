@@ -1,2 +1,4 @@
 name: Selim
-From: Cordoba
+
+Localidad: CBA
+
